@@ -1,2 +1,8 @@
 # DxA-Olympics-Data-Analytics-Challenge-KPMG
- KPMG Data Analytics Challange
+ KPMG Data Analytics Challenge
+
+## DxA Olympics 2023 Semi Final Mini Case (Dam Data - Supervised Approach)
+You are working as a data scientist in İstanbul Metropolitan Municipality. You are asked to monitor the situation in Istanbul dams in case of a possible drought or excessive rainfall due to climate change and global warming. Your manager wants you to create a prediction model for the occupancy rates of İstanbul dams for 2020 and 2021, and evaluate the success of the model. You are given the data on the daily occupancy rates of Istanbul dams for 2017, 2018, 2019. Data for the 2020 is also shared with you so that you can test the accuracy of your model.
+
+## DxA Olympics 2023 Final Case (Coffee Shop Location - Unsupervised Approach with External Data)
+As an International Franchise manager in an internationally operating chain of coffee shops, you want to introduce your brand to the Turkish market. Istanbul has been chosen as the pilot region, and you are expected to open coffee shops in various locations by evaluating the current budget and constraints, and to create a projection for the next 2 years by making customer segmentation, number of customers, sales and revenue forecasts. It is aimed to consider factors such as the targeted customer group, socio-economic and socio-cultural statuses, transportation (public transportation, private vehicle, etc.). As a project manager, you have a budget of **3 million TL**. Executives see another coffee shop chain called Brewstation as their biggest competitor. The locations of the Brewstation shops in Istanbul were shared as a data set.
