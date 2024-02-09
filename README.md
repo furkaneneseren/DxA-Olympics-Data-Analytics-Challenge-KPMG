@@ -1,5 +1,5 @@
 # DxA-Olympics-Data-Analytics-Challenge-KPMG
- KPMG Data Analytics Challenge
+ [KPMG Data Analytics Challenge](https://coderspace.io/etkinlikler/kpmg-dxa-olympics-data-analytics-challenge/)
 
 ## DxA Olympics 2023 Semi Final Mini Case (Dam Data - Supervised Approach)
 You are working as a data scientist in İstanbul Metropolitan Municipality. You are asked to monitor the situation in Istanbul dams in case of a possible drought or excessive rainfall due to climate change and global warming. Your manager wants you to create a prediction model for the occupancy rates of İstanbul dams for 2020 and 2021, and evaluate the success of the model. You are given the data on the daily occupancy rates of Istanbul dams for 2017, 2018, 2019. Data for the 2020 is also shared with you so that you can test the accuracy of your model.
